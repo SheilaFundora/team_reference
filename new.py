@@ -1,6 +1,7 @@
 import os.path as path
 import sys
 
+#esto no sirev eriel mejias
 if __name__ == '__main__':
 
     if len( sys.argv ) == 1:
